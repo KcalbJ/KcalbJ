@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James
 - 👀 I’m interested in front end
-- 🌱 I’m currently learning JavaScript Algorithms and Data Structures on freecodecamp.org
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to help any way i can 
 - 📫 How to reach me jblack.create@gmail.com
 <!---

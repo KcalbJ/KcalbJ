@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning JavaScript, python
+- 🌱 I’m currently learning C# + React
 - 💞️ I’m looking to help any way i can 
 - 📫 How to reach me jblack.create@gmail.com
 <!---
